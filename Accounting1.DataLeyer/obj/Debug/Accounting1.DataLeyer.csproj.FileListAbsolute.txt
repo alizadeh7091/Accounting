@@ -1,0 +1,12 @@
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\Accounting1.DataLeyer.dll.config
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\Accounting1.DataLeyer.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\Accounting1.DataLeyer.pdb
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\EntityFramework.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\EntityFramework.SqlServer.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\EntityFramework.xml
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\EntityFramework.SqlServer.xml
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\obj\Debug\Accounting1.DataLeyer.csprojResolveAssemblyReference.cache
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\obj\Debug\Accounting1.DataLeyer.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\obj\Debug\Accounting1.DataLeyer.pdb
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\Accounting1.ViewModels.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.DataLeyer\bin\Debug\Accounting1.ViewModels.pdb

@@ -1,0 +1,5 @@
+G:\کارشناسی\c#\Accounting1\Accounting1.Utility\bin\Debug\Accounting1.Utility.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.Utility\bin\Debug\Accounting1.Utility.pdb
+G:\کارشناسی\c#\Accounting1\Accounting1.Utility\obj\Debug\Accounting1.Utility.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.Utility\obj\Debug\Accounting1.Utility.pdb
+G:\کارشناسی\c#\Accounting1\Accounting1.Utility\obj\Debug\Accounting1.Utility.csprojResolveAssemblyReference.cache

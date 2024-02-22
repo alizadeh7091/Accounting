@@ -1,0 +1,5 @@
+G:\کارشناسی\c#\Accounting1\Accounting1.Bussiness\bin\Debug\Accounting1.Bussiness.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.Bussiness\bin\Debug\Accounting1.Bussiness.pdb
+G:\کارشناسی\c#\Accounting1\Accounting1.Bussiness\obj\Debug\Accounting1.Bussiness.csprojResolveAssemblyReference.cache
+G:\کارشناسی\c#\Accounting1\Accounting1.Bussiness\obj\Debug\Accounting1.Bussiness.dll
+G:\کارشناسی\c#\Accounting1\Accounting1.Bussiness\obj\Debug\Accounting1.Bussiness.pdb
